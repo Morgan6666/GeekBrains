@@ -74,3 +74,5 @@ power(2,5)
 for(let a = 4;a<15; a++){
     console.log(a+1)
 }
+
+ */
